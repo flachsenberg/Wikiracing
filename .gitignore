@@ -1,2 +1,5 @@
 *.class
 *.log
+*.xml
+.ipynb_checkpoints
+*.parquet/
